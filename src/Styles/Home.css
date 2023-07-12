@@ -1,0 +1,54 @@
+.home
+{
+    background-color: rgb(19, 19, 78);
+}
+.banner
+{
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    padding: 30px;
+}
+.description p
+{
+   color: aliceblue;
+}
+.description button
+{
+    background: transparent;
+    color: white;
+    border:1px solid white;
+    border-radius: 5px;
+    padding: 8px 20px;
+}
+
+.description button:hover{
+    background-color: midnightblue;
+    color: whitesmoke;
+    border: 1px solid whitesmoke;
+}
+.movies_list{
+    margin-top: 0px;
+}
+.movies_list .head h1{
+    margin: 0px;
+}
+.imgs img{
+    padding: 30px;
+    height: 400px;
+    width: 300px;
+}
+.movies_list .head {
+    background-color:rgb(19, 19, 78);
+    color: white;
+    text-align: center;
+}
+.imgs {
+    background-color: rgb(6, 2, 11);
+    display: flex;
+    justify-content: space-evenly;
+}
+.movies_list img:hover{
+    transform: translateY(-10px);
+    
+}

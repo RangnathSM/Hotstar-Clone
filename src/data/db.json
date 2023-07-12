@@ -1,0 +1,53 @@
+{
+  "favourites": [
+    {
+      "title": "The Boys",
+      "genre": "action",
+      "language": "english",
+      "rating": 4.5,
+      "id": 1
+    },
+    {
+      "title": "Dark",
+      "genre": "action",
+      "language": "english",
+      "rating": 4.5,
+      "id": 2
+    },
+    {
+      "title": "The office",
+      "genre": "sitcom",
+      "language": "english",
+      "rating": 4,
+      "id": 3
+    },
+    {
+      "title": "Malgudi Days",
+      "genre": "philosophy",
+      "language": "hindi",
+      "rating": 4.8,
+      "id": 4
+    },
+    {
+      "title": "CoCo",
+      "genre": "Animated",
+      "language": "english",
+      "rating": "4.8",
+      "id": 5
+    },
+    {
+      "title": "Kranthi",
+      "genre": "Action",
+      "language": "Kannada",
+      "rating": "4.5",
+      "id": 13
+    },
+    {
+      "title": "Varisu",
+      "genre": "Action",
+      "language": "Tamil",
+      "rating": "4.7",
+      "id": 14
+    }
+  ]
+}

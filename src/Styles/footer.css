@@ -1,0 +1,17 @@
+.footer
+{
+    background-color: rgb(1, 1, 54);
+    padding: 20px 0px;
+    text-align: center;
+}
+
+.footer_logo, .desc
+{
+    align-items: center;
+}
+.desc
+{
+    color: beige;
+    margin-left: 25px;
+    
+}

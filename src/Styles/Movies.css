@@ -1,0 +1,29 @@
+.movies{
+    background-color: rgb(19, 19, 78);
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    padding: 50px 0px;
+}
+
+.movies h1{
+    color: white;
+    margin-top: 0px;
+}
+
+.favs_list
+{
+    color: white;
+    background-color: rgb(1, 1, 54);
+    width: 600px;
+    margin: auto;
+    padding: auto;
+}
+
+
+.movies{
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}

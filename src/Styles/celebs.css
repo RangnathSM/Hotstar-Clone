@@ -1,0 +1,14 @@
+.celebs_list
+{
+    background-color: rgba(0, 0, 3, 0.989);
+}
+
+.img {
+    width:400px;
+}
+.celebs_images
+{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+}
